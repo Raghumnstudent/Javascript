@@ -1,0 +1,32 @@
+Assignment 1
+1) explore and explain the various methodes in console function ?
+Ans:  There are various methodes in console function that are mentioned below
+console.log : It is used to check the status of code and print statements
+console.warn : It is used to create warning and it is used in between codes occure warnings
+console.error : It is used to create errors and check condition then occures error
+console.table : It is used to make table of given objects
+console.push : It is used to add element to const or other types of variables
+console.time and console.timeEnd : these consoles are used to check how much time is taken for code excecution
+
+2) write the difference between var, let, and const ?
+Ans: var :  var have global scope and is used in any places in code,
+ it causes error if same variable name is used in globle scope
+
+let :  let have local scope  it is used in some bunch of code,  
+it is no matters if use same variable name in same file
+
+const :  const means constant the content in const can not remove entirely but we can add the another 
+content to same const using console.push
+
+3) write brief introduction on availabe data types in javascript ?
+there are 8 basic data types in javascript
+# Number : is for numbers of any kind
+# bigint : is for integer numbers of arbitrary length
+# string : A string have more then one character, there is no seperate single character type
+# boolean : is to check true and false 
+# null : for unknown values
+# undefined : for unassigned values
+# object : for more complex data structure
+# symbol : for unique identifiers
+
+
